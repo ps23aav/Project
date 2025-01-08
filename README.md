@@ -51,11 +51,7 @@ To run this project locally, follow these steps:
 
    cd CKD_Prediction
    
-2. *Install Dependencies*: 
-Install required Python libraries:
-```bash
-pip install -r requirements.txt
-```
 
-3. *Set Up the Dataset*:
+2. *Set Up the Dataset*:
+
 Place the Chronic_Kidney_Dsease_data.csv file in the root directory or specify the correct path in the code.
